@@ -21,6 +21,7 @@ paginate_path: /page:num/
 # Includes & Excludes
 include:
   - _pages
+  - assets
 
 # Plugins
 plugins:

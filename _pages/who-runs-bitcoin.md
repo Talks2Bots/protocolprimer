@@ -11,6 +11,13 @@ excerpt: "Bitcoin isn't controlled by anyone—but it's shaped by everyone who r
 
 Bitcoin is often described as decentralized. That's true—but it doesn't mean nobody runs it. It means **everybody who participates** plays a role in keeping it alive.
 
+<!-- Example of how to include an image:
+<figure class="align-center">
+  <img src="{{ '/assets/images/pages/who-runs-bitcoin/bitcoin-network.jpg' | relative_url }}" alt="The Bitcoin Network">
+  <figcaption>The decentralized Bitcoin network with nodes, miners, and developers. Image credit: Protocol Primer</figcaption>
+</figure>
+-->
+
 And because Bitcoin means different things to different people—freedom, savings, infrastructure, rebellion, or simply curiosity—it can lead to passionate debates. Some of those are playing out right now. You may have heard there's a new disagreement. We won't get into the details here. This article is about something deeper.
 
 It's about **who manages Bitcoin**, and more importantly, **why it matters that you're part of that process**.
