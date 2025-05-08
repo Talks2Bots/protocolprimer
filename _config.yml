@@ -18,6 +18,10 @@ permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
 
+# Sass/SCSS settings
+sass:
+  style: compressed  # possible values: nested expanded compact compressed
+
 # Includes & Excludes
 include:
   - _pages
