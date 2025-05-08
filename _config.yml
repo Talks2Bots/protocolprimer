@@ -31,6 +31,15 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Navigation
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Who Runs Bitcoin"
+    url: /who-runs-bitcoin/
+
 # Author profile
 author:
   name: "Protocol Primer"
