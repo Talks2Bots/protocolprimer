@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Who Runs Bitcoin"
+    url: /who-runs-bitcoin/ 
