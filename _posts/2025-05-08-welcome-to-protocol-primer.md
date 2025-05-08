@@ -8,6 +8,9 @@ tags:
   - Protocol
   - Education
 pin: true
+excerpt: "Welcome to Protocol Primer, a new resource dedicated to explaining technical changes in Bitcoin in simple, neutral language."
+header:
+  teaser: /assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
 ---
 
 Welcome to Protocol Primer, a new resource dedicated to explaining technical changes in Bitcoin in simple, neutral language.

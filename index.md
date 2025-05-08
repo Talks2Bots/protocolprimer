@@ -2,6 +2,7 @@
 layout: home
 author_profile: true
 title: "Welcome to Protocol Primer"
+entries_layout: grid
 ---
 
 <figure class="align-center">
