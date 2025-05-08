@@ -7,6 +7,13 @@ comments: false
 share: true
 permalink: /who-runs-bitcoin/
 excerpt: "Bitcoin isn't controlled by anyone—but it's shaped by everyone who runs a node. This site exists to help you stay informed and make decisions with clarity."
+header:
+  overlay_image: /assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
+  overlay_filter: 0.7
+  caption: "Bitcoin's decentralized network of nodes"
+toc: true
+toc_sticky: true
+classes: wide
 ---
 
 Bitcoin is often described as decentralized. That's true—but it doesn't mean nobody runs it. It means **everybody who participates** plays a role in keeping it alive.

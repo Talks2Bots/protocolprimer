@@ -1,6 +1,18 @@
 ---
 permalink: /about/
 title: "About Protocol Primer"
+layout: single
+author_profile: false
+read_time: false
+comments: false
+share: true
+header:
+  overlay_image: /assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
+  overlay_filter: 0.6
+  caption: "Protocol Primer: Making Bitcoin technical changes accessible"
+toc: true
+toc_sticky: true
+classes: wide
 ---
 
 Protocol Primer is a resource dedicated to explaining technical changes in Bitcoin in simple, neutral language. Our mission is to bridge the gap between technical developers and the broader Bitcoin community.
