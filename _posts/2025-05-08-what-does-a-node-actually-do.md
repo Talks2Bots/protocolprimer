@@ -9,6 +9,8 @@ excerpt: "Bitcoin nodes aren't just observers—they actively enforce the rules 
 permalink: /what-does-a-node-do/
 header:
   teaser: /assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
+categories:
+  - Node Basics
 ---
 
 <figure class="align-center">
