@@ -2,7 +2,7 @@
 title: "Current Discussions"
 layout: category
 permalink: /categories/current-discussions/
-taxonomy: Current Discussions
+taxonomy: current-discussions
 header:
   overlay_image: /assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
   overlay_filter: 0.7

@@ -2,7 +2,7 @@
 title: "Past Debates"
 layout: category
 permalink: /categories/past-debates/
-taxonomy: Past Debates
+taxonomy: past-debates
 header:
   overlay_image: /assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
   overlay_filter: 0.7

@@ -2,7 +2,7 @@
 title: "Major Upgrades"
 layout: category
 permalink: /categories/major-upgrades/
-taxonomy: Major Upgrades
+taxonomy: major-upgrades
 header:
   overlay_image: /assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
   overlay_filter: 0.7
