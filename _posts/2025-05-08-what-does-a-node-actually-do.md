@@ -11,7 +11,7 @@ pin: true
 excerpt: "Bitcoin nodes aren't just observers—they actively enforce the rules of the network. This 
 article explains in plain terms how nodes work, what they check, and why they matter."
 header:
-  teaser: /assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
+  teaser: /protocolprimer/assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
   overlay_filter: 0.5
   overlay_color: "#333"
 ---
@@ -20,7 +20,7 @@ header:
 
 If you're running a Bitcoin node, or if you're thinking about running one, you might wonder what it's actually doing. It may seem technical, but the idea behind a node is simple:
 
-> A node is a program that enforces Bitcoin’s rules, helps verify the integrity of the blockchain, and ensures that transactions can be processed securely and in a timely manner.
+> A node is a program that enforces Bitcoin's rules, helps verify the integrity of the blockchain, and ensures that transactions can be processed securely and in a timely manner.
 
 This article explains what your node does, how it interacts with the network, and why it matters.
 
@@ -28,7 +28,7 @@ This article explains what your node does, how it interacts with the network, an
 
 ## Your Node Maintains the Ledger—Independently
 
-Bitcoin is a distributed database. It’s not hosted by a company or stored on a single server. It lives across thousands of machines around the world. When you run a node, you are maintaining your own verified copy of that public ledger.
+Bitcoin is a distributed database. It's not hosted by a company or stored on a single server. It lives across thousands of machines around the world. When you run a node, you are maintaining your own verified copy of that public ledger.
 
 Every node contains the full history of the blockchain (unless you run a pruned node). When you start a new node from scratch, it reaches out to other nodes, like yours, and requests a copy of the verified blockchain.
 
@@ -40,24 +40,24 @@ Once it receives those blocks, your node validates every one of them to ensure i
 
 Bitcoin has strict rules:
 - No more than 21 million bitcoin will ever exist.
-- You can’t spend coins you don’t own.
-- You can’t spend the same coin twice.
+- You can't spend coins you don't own.
+- You can't spend the same coin twice.
 
-Your node’s job is to check every transaction and every block against those rules. If something doesn’t follow them, even slightly, your node rejects it. That includes fake transactions, such as someone trying to create coins out of nothing, blocks with invalid miner payouts that exceed the allowed reward, or attempts to double-spend.
+Your node's job is to check every transaction and every block against those rules. If something doesn't follow them, even slightly, your node rejects it. That includes fake transactions, such as someone trying to create coins out of nothing, blocks with invalid miner payouts that exceed the allowed reward, or attempts to double-spend.
 
 ---
 
-## Your Node Tracks What Hasn’t Been Spent Yet
+## Your Node Tracks What Hasn't Been Spent Yet
 
 Bitcoin uses something called the UTXO model. UTXO stands for Unspent Transaction Output. When you receive bitcoin, that creates a UTXO. When you spend it, your UTXO is used up—and new ones are created in its place.
 
 Your node builds a full list of every UTXO on the network. When someone tries to send bitcoin, your node:
 - ✅ Checks if the coins (UTXOs) are real
-- ✅ Verifies they haven’t already been spent
+- ✅ Verifies they haven't already been spent
 - ✅ Confirms the digital signatures are valid
 - ✅ Verifies that the total amount being spent matches the available inputs (minus the fee)
 
-If everything checks out, the transaction is added to your node’s mempool—the waiting area for valid but unconfirmed transactions. If it doesn’t pass the checks, your node discards it and does not relay it to others.
+If everything checks out, the transaction is added to your node's mempool—the waiting area for valid but unconfirmed transactions. If it doesn't pass the checks, your node discards it and does not relay it to others.
 
 ---
 
@@ -76,16 +76,16 @@ This communication is what makes Bitcoin decentralized. No single node is in cha
 
 ## Your Node Enforces Consensus
 
-Consensus is the shared agreement on Bitcoin’s rules. It's not a vote, and it isn't decided by any one person or company. Instead, consensus happens because every honest node independently checks the same rules.
+Consensus is the shared agreement on Bitcoin's rules. It's not a vote, and it isn't decided by any one person or company. Instead, consensus happens because every honest node independently checks the same rules.
 
-Let’s say someone tries to send the same bitcoin to two people at once (a double spend):
+Let's say someone tries to send the same bitcoin to two people at once (a double spend):
 - Their node might block the second transaction immediately.
-- Even if it doesn’t, other nodes—like yours—will reject it.
+- Even if it doesn't, other nodes—like yours—will reject it.
 - Miners' nodes won't add it to the mempool.
 
 So consensus isn't just about accepting good blocks. It's also about preventing bad transactions from ever reaching miners. Your node is part of that immune system.
 
-If you’re curious about the mempool and how transactions wait to be confirmed, we have a full article on that.
+If you're curious about the mempool and how transactions wait to be confirmed, we have a full article on that.
 
 ---
 
@@ -104,6 +104,6 @@ When you run a node, you're not just watching Bitcoin happen. You're actively pa
 - You verify every transaction and block yourself
 - You help enforce the network's integrity
 
-Running a node means you don’t have to trust anyone else—and you help others do the same. That said, when you run software like Bitcoin Core or Bitcoin Knots, you’re relying on that software to enforce the rules correctly. While the source code is open and reviewed by many developers, most users don’t inspect the code themselves. So in practice, you’re trusting the software implementation to apply the consensus rules accurately.
+Running a node means you don't have to trust anyone else—and you help others do the same. That said, when you run software like Bitcoin Core or Bitcoin Knots, you're relying on that software to enforce the rules correctly. While the source code is open and reviewed by many developers, most users don't inspect the code themselves. So in practice, you're trusting the software implementation to apply the consensus rules accurately.
 
 Bitcoin stays strong because thousands of people run their own nodes. Not for profit. Not for power. But to preserve the rules that make Bitcoin what it is.
