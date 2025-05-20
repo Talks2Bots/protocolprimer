@@ -10,7 +10,7 @@ tags:
 pin: true
 excerpt: "Welcome to Protocol Primer, a new resource dedicated to explaining technical changes in Bitcoin in simple, neutral language."
 header:
-  teaser: /protocolprimer/assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
+  teaser: /assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
   overlay_filter: 0.5
   overlay_color: "#333"
 ---

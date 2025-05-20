@@ -11,7 +11,7 @@ tags:
 pin: true
 excerpt: "Every Bitcoin node has its own mempool—its own view of unconfirmed transactions—shaped by the transactions it sees and the rules it enforces."
 header:
-  teaser: /protocolprimer/assets/images/posts/understanding-the-bitcoin-mempool/mempool-image.png
+  teaser: /assets/images/posts/understanding-the-bitcoin-mempool/mempool-image.png
   overlay_filter: 0.5
   overlay_color: "#333"
 ---

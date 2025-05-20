@@ -11,7 +11,7 @@ pin: true
 excerpt: "Bitcoin nodes aren't just observers—they actively enforce the rules of the network. This 
 article explains in plain terms how nodes work, what they check, and why they matter."
 header:
-  teaser: /protocolprimer/assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
+  teaser: /assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
   overlay_filter: 0.5
   overlay_color: "#333"
 ---
