@@ -1,6 +1,6 @@
 ---
 title: "A Day in the Life of a Bitcoin Node: What Your Node Actually Does"
-date: 2025-05-08
+date: 2025-05-20
 categories:
   - node-basics
 tags:
@@ -10,7 +10,7 @@ tags:
 pin: true
 excerpt: "Follow a Bitcoin node named 'NodeBuddy' through its day as it enforces rules, verifies transactions, and keeps the network secure. Discover what nodes actually do!"
 header:
-  teaser: /assets/images/posts/a-day-in-the-life-of-a-bitcoin-node/nodebuddy.png
+  teaser: /protocolprimer/assets/images/posts/a-day-in-the-life-of-a-bitcoin-node/nodebuddy.png
   overlay_filter: 0.5
   overlay_color: "#333"
 ---
