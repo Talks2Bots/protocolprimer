@@ -10,14 +10,14 @@ tags:
 pin: true
 excerpt: "Follow a Bitcoin node named 'NodeBuddy' through its day as it enforces rules, verifies transactions, and keeps the network secure. Discover what nodes actually do!"
 header:
-  teaser: /assets/images/posts/a-day-in-the-life-of-a-bitcoin-node/nodebuddy.png
+  teaser: /protocolprimer/assets/images/posts/a-day-in-the-life-of-a-bitcoin-node/nodebuddy.png
   overlay_filter: 0.5
   overlay_color: "#333"
-  image: /assets/images/posts/a-day-in-the-life-of-a-bitcoin-node/nodebuddy.png
+  image: /protocolprimer/assets/images/posts/a-day-in-the-life-of-a-bitcoin-node/nodebuddy.png
   image_description: "A Day in the Life of a Bitcoin Node"
 ---
 
-![A Day in the Life of a Bitcoin Node](/assets/images/posts/a-day-in-the-life-of-a-bitcoin-node/nodebuddy.png){: .post-featured-image}
+![A Day in the Life of a Bitcoin Node](/protocolprimer/assets/images/posts/a-day-in-the-life-of-a-bitcoin-node/nodebuddy.png){: .post-featured-image}
 
 # A Day in the Life of a Bitcoin Node
 
