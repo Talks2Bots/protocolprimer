@@ -14,7 +14,12 @@ header:
   teaser: /assets/images/posts/the-block-size-war/the-block-size-war.png
   overlay_filter: 0.5
   overlay_color: "#333"
+  image: /assets/images/posts/the-block-size-war/the-block-size-war.png
+  image_description: "The Block Size War"
 ---
+
+![The Block Size War](/assets/images/posts/the-block-size-war/the-block-size-war.png){: .post-featured-image}
+
 # The Block Size War: Scaling Bitcoin Without Breaking It
 
 The "Block Size Wars" were a turning point in Bitcoin's history — a clash over how to scale the network for global use without sacrificing what made it valuable in the first place. Behind the technical jargon and emotional debates was a deeper question: **Who really controls Bitcoin?**
