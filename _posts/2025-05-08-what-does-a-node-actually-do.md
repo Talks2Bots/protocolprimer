@@ -1,20 +1,24 @@
 ---
-title: "What Does a Node Actually Do"
+title: "What Does a Bitcoin Node Actually Do?"
 date: 2025-05-08
 categories:
   - node-basics
 tags:
-  - Consensus
-  - Blockchain
-  - UTXO
+  - Bitcoin node
+  - Full node
+  - Node operation
+  - Network
 pin: true
-excerpt: "Bitcoin nodes aren't just observers—they actively enforce the rules of the network. This 
-article explains in plain terms how nodes work, what they check, and why they matter."
+excerpt: "Bitcoin nodes are the backbone of the network. But what do they actually do? Let's break it down."
 header:
-  teaser: /assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
+  teaser: /protocolprimer/assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
   overlay_filter: 0.5
   overlay_color: "#333"
+  image: /protocolprimer/assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
+  image_description: "What Does a Bitcoin Node Actually Do"
 ---
+
+![What Does a Bitcoin Node Actually Do](/protocolprimer/assets/images/posts/what-does-a-node-do/bitcoin-nodes.png){: .post-featured-image}
 
 ## What Does a Node Actually Do?
 

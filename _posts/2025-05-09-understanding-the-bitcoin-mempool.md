@@ -1,6 +1,6 @@
 ---
-title: "Understanding the Bitcoin Mempool"
-date: 2025-05-08
+title: "Understanding the Bitcoin Mempool: The Waiting Room for Transactions"
+date: 2025-05-09
 categories:
   - node-basics
 tags:
@@ -9,12 +9,16 @@ tags:
   - Miners
   - Difficulty Adjustment
 pin: true
-excerpt: "Every Bitcoin node has its own mempool—its own view of unconfirmed transactions—shaped by the transactions it sees and the rules it enforces."
+excerpt: "The mempool is Bitcoin's waiting room for transactions. Learn how it works and why it matters for your transactions."
 header:
-  teaser: /assets/images/posts/understanding-the-bitcoin-mempool/mempool-image.png
+  teaser: /protocolprimer/assets/images/posts/understanding-the-bitcoin-mempool/mempool-image.png
   overlay_filter: 0.5
   overlay_color: "#333"
+  image: /protocolprimer/assets/images/posts/understanding-the-bitcoin-mempool/mempool-image.png
+  image_description: "Understanding the Bitcoin Mempool"
 ---
+
+![Understanding the Bitcoin Mempool](/protocolprimer/assets/images/posts/understanding-the-bitcoin-mempool/mempool-image.png){: .post-featured-image}
 
 # Understanding the Bitcoin Mempool
 
