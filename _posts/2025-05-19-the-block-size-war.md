@@ -11,14 +11,14 @@ tags:
 pin: true
 excerpt: "A battle over Bitcoin's future: scale with bigger blocks or preserve decentralization?"
 header:
-  teaser: /assets/images/posts/the-block-size-war/the-block-size-war.png
+  teaser: /protocolprimer/assets/images/posts/the-block-size-war/the-block-size-war.png
   overlay_filter: 0.5
   overlay_color: "#333"
-  image: /assets/images/posts/the-block-size-war/the-block-size-war.png
+  image: /protocolprimer/assets/images/posts/the-block-size-war/the-block-size-war.png
   image_description: "The Block Size War"
 ---
 
-![The Block Size War](/assets/images/posts/the-block-size-war/the-block-size-war.png){: .post-featured-image}
+![The Block Size War](/protocolprimer/assets/images/posts/the-block-size-war/the-block-size-war.png){: .post-featured-image}
 
 # The Block Size War: Scaling Bitcoin Without Breaking It
 
