@@ -12,30 +12,14 @@ tags:
 pin: true
 excerpt: "Step into the Mempool Nightclub, where Bitcoin transactions wait for their turn to dance on the blockchain."
 header:
-  teaser: /protocolprimer/assets/images/posts/mempool-nightclub/mempool-nightclub.png
+  teaser: /assets/images/posts/mempool-nightclub/mempool-nightclub.png
   overlay_filter: 0.5
   overlay_color: "#333"
-  image: /protocolprimer/assets/images/posts/mempool-nightclub/mempool-nightclub.png
+  image: /assets/images/posts/mempool-nightclub/mempool-nightclub.png
   image_description: "The Mempool Nightclub"
 ---
 
-![The Mempool Nightclub](/protocolprimer/assets/images/posts/mempool-nightclub/mempool-nightclub.png){: .post-featured-image}
-
-<div class="mempool-animation">
-    <object data="/protocolprimer/assets/images/posts/mempool-nightclub/mempool-animation.svg" type="image/svg+xml" width="100%" height="400">
-        Your browser does not support SVG animations
-    </object>
-</div>
-
-<style>
-.mempool-animation {
-    margin: 2em 0;
-    text-align: center;
-    background: #1a1a1a;
-    border-radius: 10px;
-    padding: 1em;
-}
-</style>
+![The Mempool Nightclub](/assets/images/posts/mempool-nightclub/mempool-nightclub.png){: .post-featured-image}
 
 # NodeBuddy's Mempool Nightclub: Where Transactions Wait to Party
 
