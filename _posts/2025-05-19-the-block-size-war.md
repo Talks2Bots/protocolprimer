@@ -11,14 +11,14 @@ tags:
 pin: true
 excerpt: "Explore the Block Size War, a pivotal moment in Bitcoin's history that shaped how the network scales and evolves."
 header:
-  teaser: /protocolprimer/assets/images/posts/the-block-size-war/the-block-size-war.png
+  teaser: /assets/images/posts/the-block-size-war/the-block-size-war.png
   overlay_filter: 0.5
   overlay_color: "#333"
-  image: /protocolprimer/assets/images/posts/the-block-size-war/the-block-size-war.png
+  image: /assets/images/posts/the-block-size-war/the-block-size-war.png
   image_description: "The Block Size War"
 ---
 
-![The Block Size War](/protocolprimer/assets/images/posts/the-block-size-war/the-block-size-war.png){: .post-featured-image}
+![The Block Size War](/assets/images/posts/the-block-size-war/the-block-size-war.png){: .post-featured-image}
 
 # The Block Size War: Scaling Bitcoin Without Breaking It
 

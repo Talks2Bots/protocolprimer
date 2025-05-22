@@ -9,16 +9,16 @@ tags:
   - Node operation
   - Network
 pin: true
-excerpt: "Bitcoin nodes are the backbone of the network. But what do they actually do? Let's break it down."
+excerpt: "Discover how Bitcoin nodes serve as the backbone of the network, enforcing rules and maintaining consensus."
 header:
-  teaser: /protocolprimer/assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
+  teaser: /assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
   overlay_filter: 0.5
   overlay_color: "#333"
-  image: /protocolprimer/assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
-  image_description: "What Does a Bitcoin Node Actually Do"
+  image: /assets/images/posts/what-does-a-node-do/bitcoin-nodes.png
+  image_description: "What Does a Bitcoin Node Actually Do?"
 ---
 
-![What Does a Bitcoin Node Actually Do](/protocolprimer/assets/images/posts/what-does-a-node-do/bitcoin-nodes.png){: .post-featured-image}
+![What Does a Bitcoin Node Actually Do?](/assets/images/posts/what-does-a-node-do/bitcoin-nodes.png){: .post-featured-image}
 
 ## What Does a Node Actually Do?
 
