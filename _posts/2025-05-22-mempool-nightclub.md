@@ -21,6 +21,22 @@ header:
 
 ![The Mempool Nightclub](/protocolprimer/assets/images/posts/mempool-nightclub/mempool-nightclub.png){: .post-featured-image}
 
+<div class="mempool-animation">
+    <object data="/protocolprimer/assets/images/posts/mempool-nightclub/mempool-animation.svg" type="image/svg+xml" width="100%" height="400">
+        Your browser does not support SVG animations
+    </object>
+</div>
+
+<style>
+.mempool-animation {
+    margin: 2em 0;
+    text-align: center;
+    background: #1a1a1a;
+    border-radius: 10px;
+    padding: 1em;
+}
+</style>
+
 # NodeBuddy's Mempool Nightclub: Where Transactions Wait to Party
 
 > **Welcome to Club Mempool**: The hottest spot in Bitcoin town where transactions queue up for their chance to make it into the exclusive "Block Club." NodeBuddy is the bouncer, and the VIP list is determined by one thing: how much you're willing to pay.
