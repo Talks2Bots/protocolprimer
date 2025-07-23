@@ -12,14 +12,14 @@ tags:
 pin: true
 excerpt: "The epic tale of how a simple question about club capacity nearly tore apart NodeBuddy's worldwide nightclub franchise."
 header:
-  teaser: /assets/images/posts/blocksize-wars-nightclub/club-expansion-wars.png
+  teaser: /assets/images/posts/blocksize-wars-nightclub/club-expansion-wars.jpg
   overlay_filter: 0.5
   overlay_color: "#FF6B35"
-  image: /assets/images/posts/blocksize-wars/club-expansion-wars.png
+  image: /assets/images/posts/blocksize-wars-nightclub/club-expansion-wars.jpg
   image_description: "The Great Club Expansion Wars"
 ---
 
-![The Great Club Expansion Wars](/assets/images/posts/blocksize-wars/club-expansion-wars.png){: .post-featured-image}
+![The Great Club Expansion Wars](/assets/images/posts/blocksize-wars-nightclub/club-expansion-wars.jpg){: .post-featured-image}
 
 # The Great Club Expansion Wars: When NodeBuddy's Franchise Nearly Collapsed
 
